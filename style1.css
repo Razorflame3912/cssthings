@@ -1,0 +1,20 @@
+h1 {
+    color:#99CC00;
+    font-family: Arial;
+    font-size: 500%;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    background-color: white;
+
+    
+}
+
+h2{
+    color:#440044;
+}
+
+h3{
+    font-family: Comic Sans MS;
+    text-align: left;
+}

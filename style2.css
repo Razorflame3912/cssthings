@@ -1,0 +1,28 @@
+a {
+    color:lightsteelblue;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+body{
+    text-align:center;
+    background-color: #999999;
+}
+
+ul{
+    list-style-type: square;
+    text-align:left;
+}
+
+p {
+    text-align:left;
+    background-color: #99CC00;
+    font-family: Comic Sans MS;
+    font-size:120%;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    
+    
+}
