@@ -15,6 +15,34 @@ h2{
 }
 
 h3{
-    font-family: Comic Sans MS;
+    font-family: "Comic Sans MS", Arial, sans-serif;
     text-align: left;
+}
+
+#head1{
+    letter-spacing: 15px;
+}
+
+.extreme{
+    background-color: red;
+}
+
+.navzone{
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    background-color: grey;
+}
+
+#tehlulz{
+    background: purple;
+    padding: 20px;
+}
+
+.content{
+    background-color: white;
+}
+
+.prose{
+        text-shadow: 1px 1px #000000;
 }
