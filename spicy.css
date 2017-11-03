@@ -1,0 +1,63 @@
+body{
+    background-image: url("pattern.jpg");
+    background-position: center top;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+#header{
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    background-color: rgba(102,0,102,0.7);
+    max-width: 80%;
+    font-size: 500%;
+    color: rgba(125,200,0,1);
+    border-radius: 20px;
+    text-shadow: 0px 0px 7px red;
+    padding: 5px;
+}
+
+table{
+    padding: 30px;
+    margin: 0 auto;
+    border-width: 20px;
+
+}
+
+a {
+    font-size: 150%;
+    padding: 20px;
+    font-family: Verdana, sans-serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+
+
+
+td{
+    padding: 5px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    background-color: yellow;
+}
+
+.meat{
+    margin: 0 auto;
+    padding: 50px;
+    background-color: grey;
+    border-radius: 50px;
+    max-width: 90%;
+}
+
+p {
+    padding: 20px;
+    font-family: Verdana, sans-serif;
+    text-align: justify;
+    font-size: 120%;
+    background-color:#d3d3d3;
+}
